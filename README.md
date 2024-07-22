@@ -12,7 +12,7 @@ Franka Emikia Research 3 robotic arm teleoperation by Force Dimension Sigma.7
 
 ## Dependencies
 
-* System Requirements:
+* System requirements:
   * Ubuntu 20.04
   * ROS Noetic
   * C++11 and above
