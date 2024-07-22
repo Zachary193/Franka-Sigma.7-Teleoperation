@@ -74,6 +74,7 @@ source devel/setup.bash
 
 roslaunch franka_execute franka_execute.launch
 ```
+![experiment_image](src/media/experiment.jpg)
 
 You should see the FR3 model on RViz.
 
