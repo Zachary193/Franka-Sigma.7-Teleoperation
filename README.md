@@ -77,7 +77,7 @@ roslaunch franka_execute franka_execute.launch
 
 You should see the FR3 model on RViz.
 
-### 4. Teleoperation
+### 4. Start Teleoperation
 
 Now you can move Sigma.7 device to control the Franka robotic arm.
 ![experiment_image](src/media/experiment.jpg)
