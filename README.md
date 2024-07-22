@@ -66,7 +66,7 @@ rosrun sigma7 sigma7
 
 ### 3. Control the Franka robotic arm
 
-After launching **Step 2**, in the second terminal:
+After **Step 2**, in the second terminal:
 
 ```bash
 # Source 
