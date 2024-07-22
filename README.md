@@ -33,7 +33,7 @@ ME5001 Project of NUS Mechanical Engineering
 
   * ROS Noetic [ROS Installation](https://wiki.ros.org/noetic/Installation/Ubuntu)
   * MoveIt 1 Noetic [MoveIt Installation](https://moveit.github.io/moveit_tutorials/doc/getting_started/getting_started.html#install-ros-and-catkin/)
-  * Franka Control Interface [FCI Installation](https://frankaemika.github.io/docs/installation_linux.html/)
+  * Franka Control Interface [FCI Installation](https://frankaemika.github.io/docs/installation_linux.html)
 
 ## Installation
 
