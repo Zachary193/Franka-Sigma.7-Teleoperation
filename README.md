@@ -1,8 +1,8 @@
 # Franka-Sigma.7-Teleoperation
 
-ME5001 Project of NUS Mechanical Engineering
+ME5001 Project of NUS Mechanical Engineering MSc
 
-Franka Emikia Research 3 robotic arm teleoperation by Force Dimension Sigma.7, integrated with gripper control and haptic feedback
+Franka Emikia Research 3 robotic arm teleoperation by Force Dimension Sigma.7, integrated with gripper control and haptic feedback.
 
 ![Ubuntu 20.04](https://img.shields.io/badge/OS-Ubuntu_20.04-informational?style=flat&logo=ubuntu&logoColor=white&color=2bbc8a)
 ![ROS Noetic](https://img.shields.io/badge/Tools-ROS_Noetic-informational?style=flat&logo=ROS&logoColor=white&color=2bbc8a)
