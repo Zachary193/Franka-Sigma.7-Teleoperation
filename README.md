@@ -64,7 +64,7 @@ source devel/setup.bash
 rosrun sigma7 sigma7
 ```
 
-### 3. Control the Franka robotic arm
+### 3. Connect to Franka robotic arm
 
 After **Step 2**, in the second terminal:
 
