@@ -419,9 +419,9 @@ int holdOnCenter(SigmaDevice* sigma_device) {
 
             fg = clamp(Kgp * (pgHold - pg) - Kgv * vg, -MaxGripperForce, MaxGripperForce);
         } else {
-            fx += filter_constant * (-external_fx - fx);
-            fy += filter_constant * (external_fy - fy);
-            fz += filter_constant * (external_fz - fz);
+            fx += filter_constant * (-external_fx/4 - fx);
+            fy += filter_constant * (external_fy/4 - fy);
+            fz += filter_constant * (external_fz/4 - fz);
 
             qa = clamp(Kr * (raHold - ra) - Kw * wa, -MaxTorque, MaxTorque);
             qb = clamp(Kr * (rbHold - rb) - Kw * wb, -MaxTorque, MaxTorque);
